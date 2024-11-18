@@ -5,8 +5,8 @@
 
 
 probando gif 
+![vingrogu](https://github.com/user-attachments/assets/7463f566-4ef4-46c6-be6e-85d9efe3790e)
 
-![image](https://github.com/user-attachments/assets/c19653f5-87f2-483d-a06b-19dc1d7a417d)
 
 <!---
 toninif/toninif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
